@@ -4,15 +4,15 @@
 To Create a python program to find Minimum number of jumps to reach end  of the array using naive method(recursion)
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+1. Base Cases: Return 0 if already at the end, or infinity if stuck (current element is 0).
+2. Initialize min jumps to infinity.
+3. Iterate through all reachable indices from the current position.
+4. Recursively find the minimum jumps from each reachable index and add 1 for the current jump.
+5. Return the overall minimum jumps found.   
 
 ## Program:
-Developed by: 
-Register Number:  
+### Developed by: 
+### Register Number:  
 ```python
 def minJumps(arr, l, h):
     if (h == l):
