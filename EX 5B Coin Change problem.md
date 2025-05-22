@@ -11,8 +11,8 @@ To Create a Python Function to find the total number of distinct ways to get a c
 5. Repeat until all possibilities are explored and summed.  
 
 ## Program:
-### Developed by: 
-### Register Number:  
+### Developed by: NARASIMHAN S 
+### Register Number: 212223230133 
 ```python
 def count(S, n, target):
     if target == 0:
