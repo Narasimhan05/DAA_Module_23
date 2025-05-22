@@ -11,8 +11,8 @@ To Write a python program to Implement Minimum cost path using Dynamic Programmi
 5. Return the value at tc[m][n]. 
 
 ## Program:
-### Developed by: 
-### Register Number:  
+### Developed by: NARASIMHAN S 
+### Register Number: 212223230133 
 
 ```python
 R = int(input())
